@@ -23,9 +23,7 @@
         android:translationX="75dp"
         android:translationY="250dp"
         android:id="@+id/Button1"
-        app:layout_constraintStart_toStartOf = "parent"
-        app:layout_constraintTop_toTopOf = "parent"
-
+       
         />
 
     <Button
@@ -35,8 +33,7 @@
         android:translationX="160dp"
         android:translationY="250dp"
         android:id="@+id/Button2"
-        app:layout_constraintStart_toStartOf = "parent"
-        app:layout_constraintTop_toTopOf = "parent"
+    
 
         />
 
@@ -47,8 +44,7 @@
         android:translationX="245dp"
         android:translationY="250dp"
         android:id="@+id/Button3"
-        app:layout_constraintStart_toStartOf = "parent"
-        app:layout_constraintTop_toTopOf = "parent"
+
 
         />
 
